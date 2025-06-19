@@ -1,0 +1,34 @@
+baseURL = "https://lzzt.github.io"  # 网站的 URL
+languageCode = "zh"  # 网站语言代码
+title = "李子真田"  # 网站标题
+theme = "hugo-theme-ladder"  # 使用的主题名称
+defaultContentLanguage = "zh"
+[params]
+  brand = "主页"
+  author = "李子真田"
+  authorDescription = "阅读｜思考｜产出｜进步"
+  info = "从未停止对未知的探索，尝试分享一些有趣的东西"
+  avatarURL = "images/lzzt.png"
+  darkModeTheme = "data-dark-mode"
+  favicon = "images/lzzt.png"
+
+[[menu.main]]
+  name = "文章"
+  url = "/blog/"
+  weight = 1
+
+[[menu.main]]
+  name = "归档"
+  url = "/archive/"
+  weight = 2
+
+[[menu.main]]
+  name = "联系"
+  url = "/contact/"
+  weight = 3
+
+[[menu.main]]
+  name = "网站统计"
+  url = "/xx/"
+  weight = 4
+
