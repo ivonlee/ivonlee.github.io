@@ -2,17 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/blog/</loc>
-    <lastmod>2025-06-19T15:55:11+08:00</lastmod>
+    <loc>https://lzzt.github.io/blog/</loc>
+    <lastmod>2025-06-23T09:59:18+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/first/</loc>
-    <lastmod>2025-06-19T15:55:11+08:00</lastmod>
+    <loc>https://lzzt.github.io/tags/</loc>
+    <lastmod>2025-06-23T09:59:18+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-06-19T15:55:11+08:00</lastmod>
+    <loc>https://lzzt.github.io/tags/%E5%8D%9A%E5%AE%A2/</loc>
+    <lastmod>2025-06-23T09:59:18+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://lzzt.github.io/tags/%E6%B5%8B%E8%AF%95/</loc>
+    <lastmod>2025-06-23T09:59:18+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://lzzt.github.io/</loc>
+    <lastmod>2025-06-23T09:59:18+08:00</lastmod>
+  </url><url>
+    <loc>https://lzzt.github.io/blog/first/</loc>
+    <lastmod>2025-06-23T09:59:18+08:00</lastmod>
+  </url><url>
+    <loc>https://lzzt.github.io/archive/first/</loc>
+  </url><url>
+    <loc>https://lzzt.github.io/archive/</loc>
+  </url><url>
+    <loc>https://lzzt.github.io/categories/</loc>
+  </url><url>
+    <loc>https://lzzt.github.io/favorite/first/</loc>
+  </url><url>
+    <loc>https://lzzt.github.io/favorite/</loc>
+  </url><url>
+    <loc>https://lzzt.github.io/project/first/</loc>
+  </url><url>
+    <loc>https://lzzt.github.io/project/</loc>
   </url>
 </urlset>

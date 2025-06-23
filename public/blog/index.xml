@@ -6,15 +6,17 @@
     <description>Recent content in Blogs on 李子真田 created by </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Thu, 19 Jun 2025 15:55:11 +0800</lastBuildDate><atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 23 Jun 2025 09:59:18 +0800</lastBuildDate><atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>博客标题</title>
+      <title>我的第一篇博客</title>
       <link>http://localhost:1313/blog/first/</link>
-      <pubDate>Thu, 19 Jun 2025 15:55:11 +0800</pubDate>
+      <pubDate>Mon, 23 Jun 2025 09:59:18 +0800</pubDate>
       
       <guid>http://localhost:1313/blog/first/</guid>
-      <description>&lt;p&gt;这是摘要&lt;/p&gt;
-&lt;p&gt;这是内容&lt;/p&gt;</description>
+      <description>&lt;p&gt;这是我的第一篇博客文章，用来测试评论功能。&lt;/p&gt;
+&lt;h2 id=&#34;欢迎来到我的博客&#34;&gt;欢迎来到我的博客&lt;/h2&gt;
+&lt;p&gt;这是完整的文章内容。如果您看到文章底部有评论框，说明评论功能已经成功配置！&lt;/p&gt;
+&lt;p&gt;您可以在下方留言测试评论功能。&lt;/p&gt;</description>
     </item>
     
   </channel>
