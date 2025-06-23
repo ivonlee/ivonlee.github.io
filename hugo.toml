@@ -1,4 +1,4 @@
-baseURL = "https://lzzt.github.io"  # 网站的 URL
+baseURL = "https://ivonlee.github.io"  # 网站的 URL
 languageCode = "zh"  # 网站语言代码
 title = "李子真田"  # 网站标题
 theme = "hugo-theme-ladder"  # 使用的主题名称
