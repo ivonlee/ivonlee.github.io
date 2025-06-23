@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>测试 on 李子真田</title>
-    <link>http://localhost:1313/tags/%E6%B5%8B%E8%AF%95/</link>
+    <link>https://lzzt.github.io/tags/%E6%B5%8B%E8%AF%95/</link>
     <description>Recent content in 测试 on 李子真田 created by </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Mon, 23 Jun 2025 09:59:18 +0800</lastBuildDate><atom:link href="http://localhost:1313/tags/%E6%B5%8B%E8%AF%95/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 23 Jun 2025 09:59:18 +0800</lastBuildDate><atom:link href="https://lzzt.github.io/tags/%E6%B5%8B%E8%AF%95/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>我的第一篇博客</title>
-      <link>http://localhost:1313/blog/first/</link>
+      <link>https://lzzt.github.io/blog/first/</link>
       <pubDate>Mon, 23 Jun 2025 09:59:18 +0800</pubDate>
       
-      <guid>http://localhost:1313/blog/first/</guid>
+      <guid>https://lzzt.github.io/blog/first/</guid>
       <description>&lt;p&gt;这是我的第一篇博客文章，用来测试评论功能。&lt;/p&gt;
 &lt;h2 id=&#34;欢迎来到我的博客&#34;&gt;欢迎来到我的博客&lt;/h2&gt;
 &lt;p&gt;这是完整的文章内容。如果您看到文章底部有评论框，说明评论功能已经成功配置！&lt;/p&gt;

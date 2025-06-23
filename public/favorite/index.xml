@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Favorites on 李子真田</title>
-    <link>http://localhost:1313/favorite/</link>
+    <link>https://lzzt.github.io/favorite/</link>
     <description>Recent content in Favorites on 李子真田 created by </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh</language><atom:link href="http://localhost:1313/favorite/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh</language><atom:link href="https://lzzt.github.io/favorite/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
