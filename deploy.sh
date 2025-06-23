@@ -12,6 +12,9 @@ hugo --minify
 echo "复制静态文件到根目录..."
 cp -r public/* .
 
+# 确保.nojekyll文件存在
+touch .nojekyll
+
 # 添加到Git
 echo "提交更改到Git..."
 git add .
